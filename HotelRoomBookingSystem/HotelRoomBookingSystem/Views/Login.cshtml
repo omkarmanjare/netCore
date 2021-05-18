@@ -1,0 +1,22 @@
+﻿@model HotelRoomBookingSystem.Models.User
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Login Page hotel";
+}
+
+
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+    <form asp-controller="Login" asp-action="AuthenticateUser" method="post">
+        <label>Username</label>
+        <input asp-for="Username">
+        <label>PAssword</label>
+        <input type="password" asp-for="Password" />
+        <input type="submit" value="Login" />
+    </form>
+</body>
+</html>

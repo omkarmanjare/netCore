@@ -1,0 +1,9 @@
+C:\Learning\NetCore\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Learning\NetCore\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Learning\NetCore\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Learning\NetCore\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Learning\NetCore\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Learning\NetCore\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Learning\NetCore\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Learning\NetCore\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Learning\NetCore\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

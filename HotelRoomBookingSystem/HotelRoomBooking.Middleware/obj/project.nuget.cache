@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GV8ElpFsPKE9IZa/WuuQiN48Nz4dscirm0akvs2DBotiMTGEJnuT6EQPyZqgbSIzrnHxc54KSqXozJMyeybl4A==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\NetCore\\HotelRoomBookingSystem\\HotelRoomBooking.Middleware\\HotelRoomBooking.Middleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\310405\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\310405\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

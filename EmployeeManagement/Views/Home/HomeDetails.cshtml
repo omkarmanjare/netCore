@@ -1,0 +1,28 @@
+﻿@model EmployeeManagement.Models.ViewModel.HomeDetailsViewModel  // <!--This is for strongly typed views. Example of list view -->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h3>By Using ViewModel- HomeDetailsViewModel : @Model.PageTitle </h3>
+
+    <div>
+        Name : @Model.Employee.Name;
+    </div>
+
+    <div>
+        Department : @Model.Employee.Department;
+    </div>
+
+    <div>
+        Id : @Model.Employee..Id;
+    </div>
+
+    <div>
+        Email : @Model.Employee.EmailId;
+    </div>
+
+    
+</body>
+</html>

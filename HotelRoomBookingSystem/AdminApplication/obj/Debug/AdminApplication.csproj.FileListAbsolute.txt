@@ -1,0 +1,11 @@
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\bin\Debug\AdminApplication.exe
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\bin\Debug\AdminApplication.exe.config
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\obj\Debug\AdminApplication.Home.resources
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\obj\Debug\AdminApplication.Login.resources
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.cache
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\obj\Debug\AdminApplication.csproj.CoreCompileInputs.cache
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\obj\Debug\AdminApplication.exe
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\obj\Debug\AdminApplication.pdb
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\obj\Debug\AdminApplication.csprojAssemblyReference.cache
+C:\Learning\NetCore\HotelRoomBookingSystem\AdminApplication\bin\Debug\AdminApplication.pdb

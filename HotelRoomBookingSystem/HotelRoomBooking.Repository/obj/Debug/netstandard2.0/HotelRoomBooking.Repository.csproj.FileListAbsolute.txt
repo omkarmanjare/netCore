@@ -1,0 +1,9 @@
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\bin\Debug\netstandard2.0\HotelRoomBooking.Repository.deps.json
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\bin\Debug\netstandard2.0\HotelRoomBooking.Repository.dll
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\bin\Debug\netstandard2.0\HotelRoomBooking.Repository.pdb
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\obj\Debug\netstandard2.0\HotelRoomBooking.Repository.AssemblyInfoInputs.cache
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\obj\Debug\netstandard2.0\HotelRoomBooking.Repository.AssemblyInfo.cs
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\obj\Debug\netstandard2.0\HotelRoomBooking.Repository.csproj.CoreCompileInputs.cache
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\obj\Debug\netstandard2.0\HotelRoomBooking.Repository.dll
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\obj\Debug\netstandard2.0\HotelRoomBooking.Repository.pdb
+C:\Learning\NetCore\HotelRoomBookingSystem\HotelRoomBooking.Repository\obj\Debug\netstandard2.0\HotelRoomBooking.Repository.csprojAssemblyReference.cache
